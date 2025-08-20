@@ -68,7 +68,7 @@ This project uses a 3D cascade nnUNet v2 model to segment brain metastases from 
 
 Brain CT 
 
-## Tag(purpose)
+## Tag(Purpose)
 
 Segmentation
 
