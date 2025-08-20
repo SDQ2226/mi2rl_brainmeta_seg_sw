@@ -61,7 +61,16 @@ To run the inference on new CT images, follow these steps:
    ```bash
    bash brainmeta_prediction.sh
    ```
-## Tag 
+## Summary
+
+This project uses a 3D cascade nnUNet v2 model to segment brain metastases from CT scans for clinical analysis and treatment planning.
+## Tag(Input)
+
+Brain CT 
+
+## Tag(purpose)
+
+Segmentation
 
 ## Reference
 
